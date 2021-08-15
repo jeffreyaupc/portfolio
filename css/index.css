@@ -35,8 +35,9 @@ body {
 
 .selfintro {
     font-size: 15px;
-    margin: 0.5% 30%;
-    padding: 1%;
+    max-width: 1000px;
+    margin: 50px auto;
+    padding: 15px;
     border: 2px solid darkblue;
     background-color: #cdfffd;
     border-radius: 6px;
@@ -47,8 +48,9 @@ body {
 }
 
 .contacts {
-    margin: 0.5% 30%;
-    padding: 1% 0;
+    max-width: 1000px;
+    margin: 25px auto;
+    padding: 15px 0;
     border: 1px solid darkblue;
     background-color: whitesmoke;
     border-radius: 6px;
@@ -104,11 +106,12 @@ body {
 .feature {
     text-align: center;
     font-size: 18px;
-    margin: 1%;
+    margin: 15px;
 }
 
 .repos {
-    margin: 0 30%;
+    max-width: 1000px;
+    margin: 25px auto;
 }
 
 .repo {
@@ -127,3 +130,4 @@ body {
 .projectname {
     font-size:1.5rem;
 }
+
