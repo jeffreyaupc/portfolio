@@ -36,7 +36,7 @@ body {
 .selfintro {
     font-size: 15px;
     max-width: 1000px;
-    margin: 50px auto;
+    margin: 40px auto;
     padding: 15px;
     border: 2px solid darkblue;
     background-color: #cdfffd;
@@ -107,6 +107,10 @@ body {
     text-align: center;
     font-size: 18px;
     margin: 15px;
+}
+
+.aboutme {
+    margin-top: 100px; 
 }
 
 .repos {
